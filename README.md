@@ -1,25 +1,47 @@
-<h3 align="center">I'm Just A Student Trying To Improve Your Knowledge.</h3>
+<div align="center">
+<img width="100%" height = "500px" src="https://static.zerochan.net/Mo.Dao.Zu.Shi.full.2680896.jpg" alt="cover" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukevonduwitch&label=Profile%20views&color=0e75b6&style=flat" alt="lukevonduwitch" /> </p>
+<p align='center'>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukevonduwitch" alt="lukevonduwitch" /></a> </p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=LukeVonduwitch.LukeVonduwitch)
 
-<p align="left"> <a href="https://twitter.com/muddle26" target="blank"><img src="https://img.shields.io/twitter/follow/muddle26?logo=twitter&style=for-the-badge" alt="muddle26" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/muddle26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muddle26" height="30" width="40" /></a>
-<a href="https://instagram.com/erosrodrigues.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erosrodrigues.52" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/muddle 25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muddle 25" height="30" width="40" /></a>
-<a href="https://discord.gg/#2792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2792" height="30" width="40" /></a>
 </p>
+<div size='20px'> Hi! My name is Eros. I'm new here, I'm Trying To Learn New Things To Improve My Knowledge. And Thank You For Taking Your Time To View My GitHub Profile!
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h2> About Me: </h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukevonduwitch&show_icons=true&locale=en&layout=compact" alt="lukevonduwitch" /></p>
+- 🔭 I’m currently working on my Github.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukevonduwitch&show_icons=true&locale=en" alt="lukevonduwitch" /></p>
+- 🌱 I’m currently learning Computer Science. 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukevonduwitch&" alt="lukevonduwitch" /></p>
+- 👯 I’m looking to collaborate on Projects,Tech Articles 
 
+
+<h2> Skills: </h2>
+<a href= https://github.com/LukeVonduwitch?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/LukeVonduwitch?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/LukeVonduwitch?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
+
+
+<h2> Connect with me: </h2>
+<a href = 'https://www.twitter.com/@Muddle26'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.github.com/LukeVonduwitch'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.youtube.com/channel/UCOvIfLiK4q12UKQqTmQPHUg'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg"/></a>  
+
+<h2> Last Activity: </h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@LukeVonduwitch&compact=True"/>
+</a>
+<br>
+
+
+<h2> My GitHub Stats: </h2>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=LukeVonduwitch&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeVonduwitch&theme=dark" />
+</a>

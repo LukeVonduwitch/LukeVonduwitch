@@ -12,11 +12,9 @@
 
 <h2> About Me: </h2>
 
+- 🌱 I’m currently learning Computer Science.  
+
 - 🔭 I’m currently working on my Github.
-
-- 🌱 I’m currently learning Computer Science. 
-
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
 
 
 <h2> Skills: </h2>

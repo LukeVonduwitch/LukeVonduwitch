@@ -1,7 +1,3 @@
-<div align="center">
-<img width="100%" height = "500px" src="https://static.zerochan.net/Mo.Dao.Zu.Shi.full.2680896.jpg" alt="cover" />
-</div>
-
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=LukeVonduwitch.LukeVonduwitch)

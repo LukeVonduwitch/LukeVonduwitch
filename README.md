@@ -1,19 +1,41 @@
-# 💫 About Me:
-I am currently studying Computer Science.
+<p align='center'>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=LukeVonduwitch.LukeVonduwitch)
+
+</p>
+<div size='20px'> Hi! My name is Eros. I'm new here, I'm Trying To Learn New Things To Improve My Knowledge. And Thank You For Taking Your Time To View My GitHub Profile!
+</div>
+
+<h2> About Me: </h2>
+
+- 🌱 I’m currently learning Computer Science.  
+
+- 🔭 I’m currently working on my Github.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@erosrodrigues.52) 
+<h2> Skills: </h2>
+<a href= https://github.com/LukeVonduwitch?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/LukeVonduwitch?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/LukeVonduwitch?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LukeVonduwitch&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LukeVonduwitch&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeVonduwitch&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LukeVonduwitch&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
+<h2> Connect with me: </h2>
+<a href = 'https://www.twitter.com/@Muddle26'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.github.com/LukeVonduwitch'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.youtube.com/channel/UCOvIfLiK4q12UKQqTmQPHUg'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg"/></a>  
 
----
-[![](https://visitcount.itsvg.in/api?id=LukeVonduwitch&icon=5&color=12)](https://visitcount.itsvg.in)
+<h2> Last Activity: </h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@LukeVonduwitch&compact=True"/>
+</a>
+<br>
+
+
+<h2> My GitHub Stats: </h2>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=LukeVonduwitch&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeVonduwitch&theme=dark" />
+</a>

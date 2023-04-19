@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on Github projects and in my Portfolio.
 
-- 🌱 I’m currently learning Data Science, Azure,C++ and QT. 
+- 🌱 I’m currently learning Data Science, Azure, C++ and QT. 
 
 - 👯 I’m looking to collaborate on Projects, Studies and Research. 
 
@@ -37,6 +37,6 @@
 <br>
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeVonduwitch&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeVonduwitch&show_icons=true&theme=codeSTACKr)
 
 

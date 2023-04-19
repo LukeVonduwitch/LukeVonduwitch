@@ -1,4 +1,4 @@
-![visitors](![](https://komarev.com/ghpvc/?username=LukeVonduwitch&color=green&style=flat)
+![visitors](![](https://komarev.com/ghpvc/?username=LukeVonduwitch&color=green)
 
 
 <div align="center">

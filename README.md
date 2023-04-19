@@ -34,14 +34,7 @@
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/eros-rodrigues-194297214/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/https://github.com/LukeVonduwitch'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-
-<h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@waka_6a44ca1d-fea2-4507-b77b-6331b1cd3f9c&compact=True"/>
-</a>
 <br>
-
-
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeVonduwitch&show_icons=true&theme=radical)

@@ -37,6 +37,6 @@
 <br>
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeVonduwitch&show_icons=true&theme=codestackr)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeVonduwitch&show_icons=true&theme=chartreuse-dark)
 
 

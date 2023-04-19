@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/LukeVonduwitch.https://github.com/LukeVonduwitch)
+![visitors](![](https://komarev.com/ghpvc/?username=LukeVonduwitch&color=green&style=flat)
 
 
 <div align="center">

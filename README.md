@@ -1,19 +1,17 @@
-// Hi! My name is Eros. I'm new here, I'm Trying To Learn New Things To Improve My Knowledge. And Thank You For Taking Your Time To View My GitHub Profile!
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/LukeVonduwitch.https://github.com/LukeVonduwitch)
+
 
 <div align="center">
 <img width="100%" height = "250px" src="https://wallpapercave.com/wp/wp4724204.jpg" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/LukeVonduwitch.https://github.com/LukeVonduwitch)
 
 </p>
-<div size='20px'> Hi! My name is Eros. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Eros. I'm new here, I'm Trying To Learn New Things To Improve My Knowledge. And Thank You For Taking Your Time To View My GitHub Profile!
 </div>
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+<h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 

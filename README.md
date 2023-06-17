@@ -7,21 +7,8 @@
 
 
 </p>
-<div size='20px'> I'm Trying To Learn New Things To Improve My Knowledge.
+<div size='20px'> Trying To Learn New Things To Improve My Knowledge.
 </div>
-
-<h2> About Me </h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-
-
-- 🔭 I’m currently working on Github projects and in my Portfolio.
-
-- 🌱 I’m currently learning Data Science, Azure, C++ and QT. 
-
-- 👯 I’m looking to collaborate on Projects, Studies and Research. 
-
-- 💬 Talk to me about Opportunities, Studies and Career. 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/LukeVonduwitch?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>

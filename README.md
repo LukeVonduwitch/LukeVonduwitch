@@ -7,7 +7,7 @@
 
 
 </p>
-<div size='20px'> Hi! My name is Eros. I'm new here, I'm Trying To Learn New Things To Improve My Knowledge. And Thank You For Taking Your Time To View My GitHub Profile!
+<div size='20px'> I'm Trying To Learn New Things To Improve My Knowledge.
 </div>
 
 <h2> About Me </h2>
